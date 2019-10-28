@@ -1,3 +1,11 @@
+# This is an activity to practice TDD and to develop my refactor skills:
+
+- To install the Kata I installed the phpUnit: https://phpunit.de/getting-started/phpunit-8.html, comand composer require --dev phpunit/phpunit ^8
+
+- I also created the .gitignore file to do not upload to git all the vendor folder I get when installing the phpUnit.
+
+
+-------------------------
 # The Gilded Rose Kata
 
 ## Setup
